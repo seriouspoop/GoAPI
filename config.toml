@@ -1,0 +1,6 @@
+[database]
+user = "harshitsingh817775"
+passwd = "PIuFUFFbSGQgkIcp"
+cluster = "cluster0"
+clusterName = "Cluster0"
+db = "Primary"
